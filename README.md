@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsuasteguis&label=Profile%20views&color=0e75b6&style=flat" alt="rsuasteguis" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsuasteguis&theme=discord" alt="rsuasteguis" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsuasteguis&theme=algolia" alt="rsuasteguis" /></a> </p>
 
 
 - 📫 How to reach me **rsuasteguis22@gmail.com**
@@ -42,9 +42,9 @@
 <p><a href="https://www.buymeacoffee.com/rsuasteguis"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rsuasteguis" /></a><a href="https://ko-fi.com/rsuasteguis"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rsuasteguis" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsuasteguis&layout=compact&theme=transparent" alt=rsuasteguis />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsuasteguis&langs_count=8&theme=transparent" alt=rsuasteguis />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rsuasteguis&show_icons=true&locale=en&theme=" alt="rsuasteguis" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rsuasteguis&show_icons=true&locale=en&theme=transparent" alt="rsuasteguis" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rsuasteguis&theme=transparent" alt="rsuasteguis" /></p>
 
@@ -53,9 +53,11 @@
 <a href="https://github.com/rsuasteguis">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rsuasteguis&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rsuasteguis&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rsuasteguis&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rsuasteguis&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rsuasteguis&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsuasteguis&theme=transparent" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rsuasteguis&theme=gotham"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rsuasteguis&theme=react-dark"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
